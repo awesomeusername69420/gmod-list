@@ -6,9 +6,6 @@ SteamIDs = { -- Friends, notable people, and noobs
 	["STEAM_0:0:212191500"] = "Lucy", -- Alt
 	["STEAM_0:0:501847709"] = "Lucy", -- Alt
 
-	["STEAM_0:1:206450007"] = "Zachkilla", -- Main; Discord ID 732162751689916457
-	["STEAM_0:1:529114618"] = "Zachkilla", -- Alt
-
 	["STEAM_0:0:4727797"] = "NoDataFound", -- Main; Discord ID 968626855542407229, 898028985353650217
 	["STEAM_0:0:586186188"] = "NoDataFound", -- Alt
 
@@ -73,23 +70,31 @@ SteamIDs = { -- Friends, notable people, and noobs
 
 	-- Fancepunchers
 	["STEAM_0:1:7099"] = "Garry", -- The man himself; Discord ID 112179473226469376
-	["STEAM_0:0:18313012"] = "Robotboy655", -- aka Rubat; Discord ID 165597011406618624
 	["STEAM_0:0:140039814"] = "Alistar", -- Discord ID 143672569919307776
-	["STEAM_0:1:72204083"] = "Jake Rich", -- Discord ID 126077584890003456
+	["STEAM_0:0:18313012"] = "Robotboy655", -- aka Rubat; Discord ID 165597011406618624
 	["STEAM_0:0:25853318"] = "Layla", -- aka Laylad, Discord ID 274525414326534145
-	["STEAM_0:1:19779739"] = "Max", -- aka MaxOfS2D; Discord ID 86136790951419904
 	["STEAM_0:0:40642675"] = "ogniK", -- Discord ID 104830539185319936
+	["STEAM_0:1:19779739"] = "Max", -- aka MaxOfS2D; Discord ID 86136790951419904
+	["STEAM_0:1:72204083"] = "Jake Rich", -- Discord ID 126077584890003456
 
 	-- Nytsense fatsos
-	["STEAM_0:1:609734202"] = "Tabzware (Fake)", -- Wannabe Tabzware; 67.170.139.42 - Portland, Oregon
 	["STEAM_0:0:71256913"] = "Dazed", -- 174.174.14.9 - Beaverton, Oregon; Discord ID 380535512504598529
+	["STEAM_0:1:609734202"] = "Tabzware (Fake)", -- Wannabe Tabzware; 67.170.139.42 - Portland, Oregon
 	-- Don't have nyt's Steam ID. Discord ID 1035397773622792284, 1035397773622792284, 1059898533945290822
 
 	-- TTN fags
+	["STEAM_0:0:32052275"] = "Pastgreyakuma", -- aka Pastgrey ( Can't remember if he was a TTN member or was just in their Discord, close enough )
 	["STEAM_0:0:496685686"] = "gopnik", -- 129.222.84.59 - Atlanta, Georgia
 	["STEAM_0:0:527071396"] = "Cyber",
 	["STEAM_0:1:230862410"] = "PxelPrfect", -- 173.93.155.169 - Lexington, South Carolina; Discord ID 1035648799688900649
-	["STEAM_0:0:32052275"] = "Pastgreyakuma", -- aka Pastgrey ( Can't remember if he was a TTN member or was just in their Discord, close enough )
+
+	-- Methcord
+	-- Don't have Wolfie's Steam ID. Discord ID 640630469763006466
+	["STEAM_0:1:104531418"] = "Cobra", -- aka Cober
+	["STEAM_0:1:206450007"] = "Zachkilla", -- Main; Discord ID 732162751689916457
+	["STEAM_0:1:529114618"] = "Zachkilla", -- Alt
+	["STEAM_0:1:244495956"] = "Woob", -- Discord ID 858002993685594134
+	["STEAM_0:1:66057978"] = "Yogpod", -- 'STEAM_0:0:26573693' Potential alt?; Discord ID 461011076763353090
 
 	-- The rest
 	["STEAM_0:0:101875866"] = "Lix", -- Discord ID 409392486721650688
@@ -145,16 +150,14 @@ SteamIDs = { -- Friends, notable people, and noobs
 	["STEAM_0:0:84290845"] = "DonutSandwich01", -- Discord ID 210544305163468800
 	["STEAM_0:0:85055645"] = "Obama Barack", -- Discord ID 847959218920751174
 	["STEAM_0:0:98497976"] = "Octavia", -- Discord ID 227960757751382018
-	["STEAM_0:1:104531418"] = "Cobra", -- aka Cober
 	["STEAM_0:1:118269461"] = "Banksy", -- :O
 	["STEAM_0:1:130219310"] = "Mochi", -- Discord ID 396074796443762688
 	["STEAM_0:1:146653457"] = "Tranquility",
 	["STEAM_0:1:151534266"] = "Citymations", -- Discord ID 209779434998333440
 	["STEAM_0:1:15642011"] = "Pax AU", -- https://www.youtube.com/watch?v=rrnR0FcrPFs
+	["STEAM_0:1:200748743"] = "Logano", -- Discord ID 318283526472466432
 	["STEAM_0:1:216918676"] = "Mr. Bass", -- aka Aiden; Discord ID 261189993320415232
 	["STEAM_0:1:233081768"] = "namehumor", -- Discord ID 417836731497185280
-	["STEAM_0:1:244495956"] = "Woob", -- Discord ID 858002993685594134
-	-- Don't have Wolfie's Steam ID. Discord ID 640630469763006466
 	["STEAM_0:1:245495767"] = "noob dog", -- aka Boring
 	["STEAM_0:1:437790225"] = "Milk", -- aka Ethan Tomany; Discord ID 769343214217592843
 	["STEAM_0:1:446095209"] = "Axis", -- aka Lund; Discord ID 1002324690271993937
@@ -162,7 +165,6 @@ SteamIDs = { -- Friends, notable people, and noobs
 	["STEAM_0:1:526449367"] = "tod", -- Discord ID 761754613585936416
 	["STEAM_0:1:544775250"] = "Moe", -- Discord ID 729145572237508680
 	["STEAM_0:1:64777074"] = "Weegeeman", -- aka Mr.Weegeeman
-	["STEAM_0:1:66057978"] = "Yogpod", -- 'STEAM_0:0:26573693' Potential alt?; Discord ID 461011076763353090
 	["STEAM_0:1:76873410"] = "HiptonismHD", -- Discord ID 238793587473645578
 	["STEAM_0:1:84453542"] = "dogemember", -- aka hamond; Discord ID 323095153311219712
 	["STEAM_0:1:86419214"] = "WomanSlapper", -- Discord ID 852276933722505258
