@@ -1,4 +1,9 @@
-SteamIDs = { -- Friends, notable people, and noobs
+--[[
+	Friends, notable people, and noobs
+	People marked "Don't have xx's Steam ID" WILL be hunted by mercenaries until found ( Just place holders so I don't forget later :^) )
+]]
+
+SteamIDs = {
 	["STEAM_0:1:421735072"] = "wHjKoPXcVBNa", -- Main; aka BensoBenny, ElKingLaJefe, /, slashelement; Discord ID 933007993761591297
 	["STEAM_0:0:48194892"] = "wHjKoPXcVBNa", -- Alt (Old main)
 
@@ -94,7 +99,25 @@ SteamIDs = { -- Friends, notable people, and noobs
 	["STEAM_0:1:206450007"] = "Zachkilla", -- Main; Discord ID 732162751689916457
 	["STEAM_0:1:529114618"] = "Zachkilla", -- Alt
 	["STEAM_0:1:244495956"] = "Woob", -- Discord ID 858002993685594134
-	["STEAM_0:1:66057978"] = "Yogpod", -- 'STEAM_0:0:26573693' Potential alt?; Discord ID 461011076763353090
+	["STEAM_0:1:66057978"] = "Yogpod", -- aka Yogurt; 'STEAM_0:0:26573693' Potential alt?; Discord ID 461011076763353090, 464901776999710730
+
+	-- Oinkers
+	["STEAM_0:0:59389972"] = "hold on", -- Discord ID 470020275358924800
+	-- Don't have aws0me's Steam ID. Discord ID 902091610534318111
+	-- Don't have lua's Steam ID. Discord ID 127645204973879296
+	-- Don't have triggered's Steam ID. Discord ID 664679619747643392
+	-- Don't have dustbagaz's Steam ID. Discord ID 713553745929175051
+	-- Don't have rragerr's Steam ID. Discord ID 308534107799814146
+	-- Don't have authed's Steam ID. Discord ID 737067099599536227
+	-- Don't have dogecore's Steam ID. Discord ID 609827171569106945
+	-- Don't have navarog's Steam ID. Discord ID 747666409521414144
+
+	-- SixthSense staff
+	-- Don't have Bray's Steam ID. Discord ID 442538535623458827
+	-- Don't have ra's Steam ID. Discord ID 715612163548512327
+	-- Don't have ehehe's Steam ID. Discord ID 796491677949886495
+	-- Don't have Hallow's Steam ID. Discord ID 438213276518711307
+	-- Don't have safa's Steam ID. Discord ID 339454288910876672
 
 	-- The rest
 	["STEAM_0:0:101875866"] = "Lix", -- Discord ID 409392486721650688
@@ -164,6 +187,7 @@ SteamIDs = { -- Friends, notable people, and noobs
 	["STEAM_0:1:520598481"] = "n0x1ous", -- Kind of fat; Discord ID 584512720540401664
 	["STEAM_0:1:526449367"] = "tod", -- Discord ID 761754613585936416
 	["STEAM_0:1:544775250"] = "Moe", -- Discord ID 729145572237508680
+	["STEAM_0:1:62197047"] = "likka72",
 	["STEAM_0:1:64777074"] = "Weegeeman", -- aka Mr.Weegeeman
 	["STEAM_0:1:76873410"] = "HiptonismHD", -- Discord ID 238793587473645578
 	["STEAM_0:1:84453542"] = "dogemember", -- aka hamond; Discord ID 323095153311219712
