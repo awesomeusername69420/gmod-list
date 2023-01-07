@@ -24,12 +24,12 @@ SteamIDs = {
 	-- Lenn and Libre have some weird account shenanigans going on ( Who needs to ask when you can just guess B] )
 	["STEAM_0:0:453356413"] = "Lenn", -- Main; Discord ID 806251288765005865, 706667030677553238
 	["STEAM_0:0:453849921"] = "Lenn", -- Alt
+	["STEAM_0:1:182201692"] = "Lenn", -- Alt
 	["STEAM_0:1:451372581"] = "Lenn", -- Alt
 	["STEAM_0:1:552841437"] = "Lenn", -- Alt
 	["STEAM_0:1:554600789"] = "Lenn", -- Alt
-	["STEAM_0:1:716039459"] = "Lenn", -- Alt
 	["STEAM_0:1:716016191"] = "Lenn", -- Alt
-	["STEAM_0:1:182201692"] = "Lenn", -- Alt
+	["STEAM_0:1:716039459"] = "Lenn", -- Alt
 
 	["STEAM_0:1:12347527"] = "Sticky", -- Main; aka Libre; Discord ID 259815124502708224, 297946783059804162
 	["STEAM_0:0:449532271"] = "Sticky", -- Alt
