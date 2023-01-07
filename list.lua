@@ -103,7 +103,7 @@ SteamIDs = {
 
 	-- Oinkers
 	["STEAM_0:0:59389972"] = "hold on", -- Discord ID 470020275358924800
-	-- Don't have aws0me's Steam ID. Discord ID 902091610534318111
+	["STEAM_0:0:78311627"] = "aws0me", -- Discord ID 902091610534318111
 	-- Don't have lua's Steam ID. Discord ID 127645204973879296
 	-- Don't have triggered's Steam ID. Discord ID 664679619747643392
 	-- Don't have dustbagaz's Steam ID. Discord ID 713553745929175051
