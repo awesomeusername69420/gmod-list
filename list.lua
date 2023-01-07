@@ -53,12 +53,6 @@ SteamIDs = {
 	["STEAM_0:1:27520647"] = "Frzy", -- Main; Discord ID 501197617737236480
 	["STEAM_0:1:526231390"] = "Frzy", -- Alt
 
-	["STEAM_0:1:121865665"] = "Synk", -- Main; aka Jeremy Stencill; Discord ID 197808661937127435
-	["STEAM_0:1:160717043"] = "Synk", -- Alt (Bot account)
-	["STEAM_0:0:695274096"] = "Synk", -- Alt (Bot account)
-	["STEAM_0:1:612846024"] = "Synk", -- Alt (Bot account)
-	["STEAM_0:1:612966849"] = "Synk", -- Alt (Bot account)
-
 	["STEAM_0:1:245470923"] = "Nima (retard)", -- Supposed main; Massive dumbfuck; Discord ID 1053336059259400213
 	["STEAM_0:1:649779878"] = "Nima (retard)", -- Alt (CasheMoney_)
 	["STEAM_0:0:650071121"] = "Nima (retard)", -- Alt (JackSeptic321)
@@ -118,6 +112,25 @@ SteamIDs = {
 	-- Don't have ehehe's Steam ID. Discord ID 796491677949886495
 	-- Don't have Hallow's Steam ID. Discord ID 438213276518711307
 	-- Don't have safa's Steam ID. Discord ID 339454288910876672
+
+	-- LBG staff
+	["STEAM_0:1:121865665"] = "Synk", -- Main; aka Jeremy Stencill; Discord ID 197808661937127435
+	["STEAM_0:1:160717043"] = "Synk", -- Alt (Bot account)
+	["STEAM_0:0:695274096"] = "Synk", -- Alt (Bot account)
+	["STEAM_0:1:612846024"] = "Synk", -- Alt (Bot account)
+	["STEAM_0:1:612966849"] = "Synk", -- Alt (Bot account)
+	["STEAM_0:1:437790225"] = "Milk", -- Not anymore bitch; aka Ethan Tomany; Discord ID 769343214217592843
+	["STEAM_0:1:120864768"] = "Postal Alien", -- aka Astra, sm0l alien; Discord iD 1016151748810899547
+	["STEAM_0:1:146467213"] = "Rafflesia", -- aka Red
+	["STEAM_0:0:103615926"] = "Kanna", -- Discord ID 183973717859106816
+	["STEAM_0:0:104803497"] = "tobi", -- aka stargazer; Discord ID 213401090178285568
+	["STEAM_0:1:601186736"] = "TheComputerGuy", -- Discord ID 1047683097082200094
+	["STEAM_0:0:26253984"] = "CEO of Planet Fitness", -- I don't know any other aliases of his to put here
+	["STEAM_0:1:487401406"] = "INFERNO", -- aka RJ Zane; I'm not putting his phone number here that's a bit TOO mean; Discord ID 597565185397358600
+	["STEAM_0:1:111798914"] = "Ash", -- Discord ID 741006840745296347
+	["STEAM_0:1:64176993"] = "Ducktator", -- Discord ID 361520144507469829
+	["STEAM_0:1:603103218"] = "Soap", -- Silverdale, New Zealand ( Not putting her(?) full address in here ); Discord ID 880238806425546822
+	["STEAM_0:0:133926920"] = "Priemo", -- aka Russell ( His real name is Alex ); New Brunswick, Canada; Discord ID 1027023267158048788, 584524391694467082
 
 	-- The rest
 	["STEAM_0:0:101875866"] = "Lix", -- Discord ID 409392486721650688
@@ -182,7 +195,6 @@ SteamIDs = {
 	["STEAM_0:1:216918676"] = "Mr. Bass", -- aka Aiden; Discord ID 261189993320415232
 	["STEAM_0:1:233081768"] = "namehumor", -- Discord ID 417836731497185280
 	["STEAM_0:1:245495767"] = "noob dog", -- aka Boring
-	["STEAM_0:1:437790225"] = "Milk", -- aka Ethan Tomany; Discord ID 769343214217592843
 	["STEAM_0:1:446095209"] = "Axis", -- aka Lund; Discord ID 1002324690271993937
 	["STEAM_0:1:520598481"] = "n0x1ous", -- Kind of fat; Discord ID 584512720540401664
 	["STEAM_0:1:526449367"] = "tod", -- Discord ID 761754613585936416
