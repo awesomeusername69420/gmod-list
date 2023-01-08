@@ -77,9 +77,18 @@ SteamIDs = {
 	["STEAM_0:1:72204083"] = "Jake Rich", -- Discord ID 126077584890003456
 
 	-- Nytsense fatsos
+	["STEAM_0:0:144973887"] = "Nyt", -- Main; 67.170.139.42 - Portland, Oregon; Discord ID 1035397773622792284, 1035397773622792284, 1059898533945290822, 805031135771492373
+	["STEAM_0:1:609734202"] = "Nyt", -- Alt
+	["STEAM_0:0:74173085"] = "Nyt", -- Alt
+	["STEAM_0:0:605080022"] = "Nyt", -- Alt
+	["STEAM_0:0:138183420"] = "Nyt", -- Alt
+	["STEAM_0:1:228212269"] = "Nyt", -- Alt
+	["STEAM_0:1:609676456"] = "Nyt", -- Alt
+	["STEAM_0:1:619273359"] = "Nyt", -- Alt
+	["STEAM_0:1:634692605"] = "Nyt", -- Alt
 	["STEAM_0:0:71256913"] = "Dazed", -- 174.174.14.9 - Beaverton, Oregon; Discord ID 380535512504598529
-	["STEAM_0:1:609734202"] = "Tabzware (Fake)", -- Wannabe Tabzware; 67.170.139.42 - Portland, Oregon
-	-- Don't have nyt's Steam ID. Discord ID 1035397773622792284, 1035397773622792284, 1059898533945290822
+
+	-- Not sure who this. Discord ID 405102068697923585
 
 	-- TTN fags
 	["STEAM_0:0:32052275"] = "Pastgreyakuma", -- aka Pastgrey ( Can't remember if he was a TTN member or was just in their Discord, close enough )
