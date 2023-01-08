@@ -194,6 +194,7 @@ SteamIDs = {
 	["STEAM_0:0:74527587"] = "s0lum", -- Noob; Discord ID 791131045168807937
 	["STEAM_0:0:84290845"] = "DonutSandwich01", -- Discord ID 210544305163468800
 	["STEAM_0:0:85055645"] = "Obama Barack", -- Discord ID 847959218920751174
+	["STEAM_0:0:92535358"] = "Radon", -- Discord ID 278839205558222849
 	["STEAM_0:0:98497976"] = "Octavia", -- Discord ID 227960757751382018
 	["STEAM_0:1:118269461"] = "Banksy", -- :O
 	["STEAM_0:1:130219310"] = "Mochi", -- Discord ID 396074796443762688
