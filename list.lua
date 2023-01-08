@@ -87,7 +87,6 @@ SteamIDs = {
 	["STEAM_0:1:619273359"] = "Nyt", -- Alt
 	["STEAM_0:1:634692605"] = "Nyt", -- Alt
 	["STEAM_0:0:71256913"] = "Dazed", -- 174.174.14.9 - Beaverton, Oregon; Discord ID 380535512504598529
-
 	-- Not sure who this. Discord ID 405102068697923585
 
 	-- TTN fags
