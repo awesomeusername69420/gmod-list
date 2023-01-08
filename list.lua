@@ -138,6 +138,7 @@ SteamIDs = {
 	["STEAM_0:1:64176993"] = "Ducktator", -- Discord ID 361520144507469829
 	["STEAM_0:1:603103218"] = "Soap", -- Silverdale, New Zealand ( Not putting her(?) full address in here ); Discord ID 880238806425546822
 	["STEAM_0:0:133926920"] = "Priemo", -- aka Russell ( His real name is Alex ); New Brunswick, Canada; Discord ID 1027023267158048788, 584524391694467082
+	["STEAM_0:1:617409487"] = "lxjava",
 
 	-- The rest
 	["STEAM_0:0:101875866"] = "Lix", -- Discord ID 409392486721650688
@@ -199,6 +200,7 @@ SteamIDs = {
 	["STEAM_0:1:146653457"] = "Tranquility",
 	["STEAM_0:1:151534266"] = "Citymations", -- Discord ID 209779434998333440
 	["STEAM_0:1:15642011"] = "Pax AU", -- https://www.youtube.com/watch?v=rrnR0FcrPFs
+	["STEAM_0:1:178099939"] = "light.chr",
 	["STEAM_0:1:200748743"] = "Logano", -- Discord ID 318283526472466432
 	["STEAM_0:1:216918676"] = "Mr. Bass", -- aka Aiden; Discord ID 261189993320415232
 	["STEAM_0:1:233081768"] = "namehumor", -- Discord ID 417836731497185280
