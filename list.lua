@@ -96,15 +96,13 @@ SteamIDs = {
 	["STEAM_0:0:527071396"] = "Cyber",
 	["STEAM_0:1:230862410"] = "PxelPrfect", -- 173.93.155.169 - Lexington, South Carolina; Discord ID 1035648799688900649
 
-	-- Methcord
+	-- Meth & Oink
 	-- Don't have Wolfie's Steam ID. Discord ID 640630469763006466
 	["STEAM_0:1:104531418"] = "Cobra", -- aka Cober
 	["STEAM_0:1:206450007"] = "Zachkilla", -- Main; Discord ID 732162751689916457
 	["STEAM_0:1:529114618"] = "Zachkilla", -- Alt
 	["STEAM_0:1:244495956"] = "Woob", -- Discord ID 858002993685594134
 	["STEAM_0:1:66057978"] = "Yogpod", -- aka Yogurt; 'STEAM_0:0:26573693' Potential alt?; Discord ID 461011076763353090, 464901776999710730
-
-	-- Oinkers
 	["STEAM_0:0:59389972"] = "hold on", -- Discord ID 470020275358924800
 	["STEAM_0:0:78311627"] = "aws0me", -- Discord ID 902091610534318111
 	-- Don't have lua's Steam ID. Discord ID 127645204973879296
@@ -169,6 +167,7 @@ SteamIDs = {
 	["STEAM_0:0:238414867"] = "Mister Charles", -- Fat idiot; Discord ID 679485933250543627, 824454259256590367
 	["STEAM_0:0:29540342"] = "Iced Coffee", -- Discord ID 176871354979581953
 	["STEAM_0:0:35717190"] = "GrandpaTroll", -- Discord ID 181273408879722496
+	["STEAM_0:0:39587206"] = "Phoenixf129", -- Discord ID 152369526246211585
 	["STEAM_0:0:41908082"] = "homonovus", -- aka James; Discord ID 107827535479353344
 	["STEAM_0:0:436664833"] = "Nikasia", -- aka Callie; Discord ID 440224629768978432
 	["STEAM_0:0:444070083"] = "Daer", -- Discord ID 281926090606379008
