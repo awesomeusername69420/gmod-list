@@ -65,8 +65,8 @@ SteamIDs = {
 	["STEAM_0:1:547859568"] = "StormyStyx", -- Main; Discord ID 981403816245231636, 557390100045234186, 483455368597471232
 	["STEAM_0:1:625263944"] = "StormyStyx", -- Alt
 
-	["STEAM_0:0:653643904"] = "radiated", -- Main; Not 100% on who this is, characteristics similar to Dababy; Discord ID 1007267376703750184
-	["STEAM_0:0:50172698"] = "radiated", -- Alt
+	["STEAM_0:0:501726986"] = "radiated", -- Main; Not 100% on who this is, characteristics similar to Dababy; Discord ID 1007267376703750184
+	["STEAM_0:0:653643904"] = "radiated", -- Alt
 
 	-- Fancepunchers
 	["STEAM_0:1:7099"] = "Garry", -- The man himself; Discord ID 112179473226469376
