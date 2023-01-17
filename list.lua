@@ -65,8 +65,12 @@ SteamIDs = {
 	["STEAM_0:1:547859568"] = "StormyStyx", -- Main; Discord ID 981403816245231636, 557390100045234186, 483455368597471232
 	["STEAM_0:1:625263944"] = "StormyStyx", -- Alt
 
-	["STEAM_0:0:501726986"] = "radiated", -- Main; Not 100% on who this is, characteristics similar to Dababy; Discord ID 1007267376703750184
+	["STEAM_0:0:501726986"] = "radiated", -- Main; aka DaBaby, The Keeper; Discord ID 1007267376703750184, 928171296473374761, 567142654899519518, 1043455842541899777
 	["STEAM_0:0:653643904"] = "radiated", -- Alt
+	["STEAM_0:1:651313872"] = "radiated", -- Alt
+	["STEAM_0:1:652561664"] = "radiated", -- Alt
+	["STEAM_0:0:508722391"] = "radiated", -- Alt
+	["STEAM_0:1:711699290"] = "radiated", -- Alt
 
 	-- Fancepunchers
 	["STEAM_0:1:7099"] = "Garry", -- The man himself; Discord ID 112179473226469376
@@ -78,7 +82,7 @@ SteamIDs = {
 	["STEAM_0:1:72204083"] = "Jake Rich", -- Discord ID 126077584890003456
 
 	-- Nytsense fatsos
-	["STEAM_0:0:144973887"] = "Nyt", -- Main; 67.170.139.42 - Portland, Oregon; Discord ID 1035397773622792284, 1035397773622792284, 1059898533945290822, 805031135771492373
+	["STEAM_0:0:144973887"] = "Nyt", -- Main; 67.170.139.42 - Portland, Oregon; Discord ID 1035397773622792284, 1035397773622792284, 1059898533945290822, 805031135771492373, 1061051055900721262, 787959457678229526, 1064008760504365197, 1064011999719215175
 	["STEAM_0:1:609734202"] = "Nyt", -- Alt
 	["STEAM_0:0:74173085"] = "Nyt", -- Alt
 	["STEAM_0:0:605080022"] = "Nyt", -- Alt
