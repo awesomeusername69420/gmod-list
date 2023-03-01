@@ -4,6 +4,8 @@
 ]]
 
 SteamIDs = {
+	["STEAM_0:1:69272242"] = "leme", -- Main; Not putting the rest :^)
+	
 	["STEAM_0:1:421735072"] = "wHjKoPXcVBNa", -- Main; aka BensoBenny, ElKingLaJefe, /, slashelement; Discord ID 933007993761591297
 	["STEAM_0:0:48194892"] = "wHjKoPXcVBNa", -- Alt (Old main)
 
